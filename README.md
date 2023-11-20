@@ -110,3 +110,11 @@ Enter the path to the output folder: /path/to/output/folder
 ```
 
 The script will then extract the frames from the video and save them into a zip file in the output folder. The progress of the extraction process will be displayed in the terminal. If any errors occur during the extraction or zipping process, they will be printed to the terminal.
+
+## Features
+
+## Prerequisites
+
+## Acknowledgments
+
+## License
